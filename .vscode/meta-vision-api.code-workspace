@@ -3,9 +3,6 @@
 		{
 			"path": ".."
 		},
-		{
-			"path": "../xlwings_lite"
-		}
 	],
 	"settings": {
 		"python.testing.pytestArgs": [
